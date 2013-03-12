@@ -61,6 +61,7 @@
 
 - #6 The plain old CoffeeScript class
   - Don't forget about them! Use them!
+  - Mixin Backbone.Events
 
 - #7 The event mediator
   - Show an example
